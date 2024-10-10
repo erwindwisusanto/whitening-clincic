@@ -154,7 +154,7 @@
                 } else if (locale === 'en') {
                 waword = "Hello whitening.clinic by Cepat Sehat Clinic, I want a consultation";
                 } else {
-                waword = "Hello whitening.clinic by Cepat Sehat Clinic, I want a consultation";
+                waword = "Hello whitening.clinic by Cepat Sehat Clinic, I want a consultation ";
                 }
             }
 
